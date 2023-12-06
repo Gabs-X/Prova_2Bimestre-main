@@ -1,0 +1,15 @@
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.deps.json
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.dll
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\bin\Debug\net6.0\Revisao.Application.pdb
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.AssemblyInfo.cs
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.csproj.CopyComplete
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.dll
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\refint\Revisao.Application.dll
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\Revisao.Application.pdb
+C:\Users\Gabriel.botelho\Downloads\Prova_2Bimestre-main\src\Revisao.Application\obj\Debug\net6.0\ref\Revisao.Application.dll

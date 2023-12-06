@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\Revisao.API\\Revisao.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\Revisao.API\\Revisao.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\Revisao.API\\Revisao.API.csproj",
+        "projectName": "Revisao.API",
+        "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\Revisao.API\\Revisao.API.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\Revisao.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.botelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\Revisao.Application.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\Revisao.Application.csproj"
+              },
+              "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\Revisao.Data.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\Revisao.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\Revisao.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\Revisao.Application.csproj",
+        "projectName": "Revisao.Application",
+        "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\Revisao.Application.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.botelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\Revisao.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\Revisao.Data.csproj",
+        "projectName": "Revisao.Data",
+        "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\Revisao.Data.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.botelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj",
+        "projectName": "Revisao.Domain",
+        "projectPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\Revisao.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.botelho\\Downloads\\Prova_2Bimestre-main\\src\\Revisao.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.botelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
